@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Walmart Intent App</string>
+    <string name="create_a_new_account">Create new account</string>
+    <string name="forgot_password"><a href="http://www.walmart.com/account/forgotpassword">Forgot your password?</a></string>
+    <string name="logo">logo</string>
+    <string name="password_required">Password (Required)</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in_to_your_account">Sign in to account</string>
+    <string name="email_address_required">Email Address (Required)</string>
+    <string name="password">Password*</string>
+    <string name="create_your_account">Create a new Account</string>
+    <string name="required">* Required</string>
+    <string name="first_name">First Name *</string>
+    <string name="last_name">Last Name *</string>
+    <string name="email_address">Email Address *</string>
+    <string name="create_account">Create Account</string>
+</resources>
+
+
